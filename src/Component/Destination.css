@@ -1,0 +1,24 @@
+.maincontent {
+    background-image: url("https://w0.peakpx.com/wallpaper/347/586/HD-wallpaper-%E2%80%A2%E1%83%A6%E2%9C%BF%E1%83%A6%E2%80%A2-beach-nature-meditation-people.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.maincontent .form-select {
+    border-radius: 50px;
+}
+
+.col-auto .form-control {
+    border-radius: 50px;
+    margin-bottom: 15px;
+}
+
+.btn:hover {
+    color: black;
+}

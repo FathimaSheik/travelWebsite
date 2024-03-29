@@ -1,0 +1,21 @@
+.errormain {
+    background-image: url("https://w.forfun.com/fetch/f2/f20d16cd30658f76a36b771ee1776236.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    color: #fff;
+}
+
+.card-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+}

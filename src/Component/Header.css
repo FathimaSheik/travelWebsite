@@ -1,0 +1,72 @@
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+    background-color: white !important;
+}
+
+.navbar-nav:first-child {
+    margin-left: 5vw;
+    gap: 5vw;
+}
+
+.navbar-nav {
+    font-size: 1.2rem;
+    font-weight: 400;
+
+}
+
+.navbar-brand {
+    background-color: coral;
+    margin-left: 3vw;
+    margin-right: 1vw;
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 3px 20px;
+    color: white;
+    border-radius: 10px;
+    transition: all ease 0.3s;
+}
+
+.navbar-brand:hover {
+    color: black;
+    text-decoration: underline;
+    transition: all ease 0.3s;
+    background-color: rgb(255, 93, 120);
+    
+   
+}
+
+.nav-link {
+    color: white !important;
+    background-color: coral;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-radius: 10px;
+    padding: 3px 20px;
+}
+
+.nav-link:hover {
+    color: black !important;
+    text-decoration: underline;
+    transition: all ease 0.3s;
+    background-color: rgb(255, 93, 120);
+}
+
+.bi {
+    font-size: 1.5rem;
+    margin-right: 0.7vw;
+
+}
+
+.btn {
+    background-color: coral;
+    border: 1px solid coral;
+    color: white;
+}
+
+.btn:hover {
+    background-color: transparent;
+}
+
+.d-flex {
+    margin-right: 8vw;
+    margin-left: 0;
+}
